@@ -31,7 +31,7 @@ Here is the category page if clicked on view all the products will be seen
 
 Here is the news page
 
-![image](https://github.com/user-attachments/assets/e13ff45c-bfd8-4067-ab75-f0cfa9537629)
+![image](https://github.com/user-attachments/assets/18a621d2-3e01-4fae-bc28-5e862c0772e5)
 
 Here is the footer page
 
