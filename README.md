@@ -6,6 +6,36 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
+This is the Header
+
+![image](https://github.com/user-attachments/assets/0e0de930-b069-496e-9076-c32b1116a516)
+
+This is the hero banner
+
+![image](https://github.com/user-attachments/assets/0b2dee85-c8a7-48f5-8555-c12c714cd7a6)
+
+This is the rotating list Slide
+
+![image](https://github.com/user-attachments/assets/01f1cd3a-5976-4684-b849-089c30db02be)
+
+This is the Editor Pick by clicking on view all the rest tab will be open
+
+![image](https://github.com/user-attachments/assets/44677a6f-ddda-4785-8ce5-3615fd319f80)
+
+Here is the category page if clicked on view all the products will be seen
+
+![image](https://github.com/user-attachments/assets/ea535563-daef-4a88-bfbb-b80ee737d0d8)
+
+Here is the news page
+
+![image](https://github.com/user-attachments/assets/e13ff45c-bfd8-4067-ab75-f0cfa9537629)
+
+Here is the footer page
+
+![image](https://github.com/user-attachments/assets/732ee8e2-0bd8-4d40-a364-becd1fbf8048)
+
+
+
 
 ## About Laravel
 
