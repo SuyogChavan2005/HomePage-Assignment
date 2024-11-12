@@ -14,9 +14,12 @@ This is the hero banner
 
 ![image](https://github.com/user-attachments/assets/0b2dee85-c8a7-48f5-8555-c12c714cd7a6)
 
-This is the rotating list Slide
+This is the rotating list Slide (it will rotate and when selected all the other get gray )
 
 ![image](https://github.com/user-attachments/assets/01f1cd3a-5976-4684-b849-089c30db02be)
+
+![image](https://github.com/user-attachments/assets/e5a8d45f-c706-4fa3-ad2b-982db4caf388)
+
 
 This is the Editor Pick by clicking on view all the rest tab will be open
 
